@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsonplaceholder-posts/static/css/main.7321dcf8.css",
+    "main.js": "/jsonplaceholder-posts/static/js/main.1b18c507.js",
+    "index.html": "/jsonplaceholder-posts/index.html",
+    "main.7321dcf8.css.map": "/jsonplaceholder-posts/static/css/main.7321dcf8.css.map",
+    "main.1b18c507.js.map": "/jsonplaceholder-posts/static/js/main.1b18c507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7321dcf8.css",
+    "static/js/main.1b18c507.js"
+  ]
+}
