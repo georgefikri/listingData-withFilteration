@@ -1,13 +1,7 @@
-// create functional component get data from api using axios
-// store data in state
-// filter data based on search input
-// if searchData is more than 5 add pagination
-
 import React, { useState, useEffect } from "react";
 import { Get } from "./API/Get";
 import { Posts } from "./Posts/Posts";
 import { Pagination } from "./Pagination/Pagination";
-// import App.css file
 import "./App.css";
 
 export const App = () => {
