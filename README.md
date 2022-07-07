@@ -5,6 +5,10 @@
 - filtering data with search
 - if searchData is more than 5 add pagination
 
+## Check the project on github pages
+
+- https://georgefikri.github.io/listingData-withFilteration/
+
 ## Available Scripts
 
 In the project directory, you can run:
